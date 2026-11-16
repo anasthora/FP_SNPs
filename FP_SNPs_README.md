@@ -30,7 +30,7 @@ awk 'BEGIN{FS=OFS="\t"} NR==1{print "#CHROM","POS","ID","allele1","allele2"; nex
 - список маркеров, для которых не найдено совпадение с референсом (с указанием ошибки)
 - лог-файл
 
-запуск крипта в терминале:
+запуск cкрипта в терминале:
 ```bash
 python3 resolve_ref_alt.py \
     -i FP_SNPs_10k_GB38_twoAllelsFormat.tsv \
