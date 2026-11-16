@@ -44,6 +44,3 @@ python3 resolve_ref_alt.py \
 ## Лицензия
 без лицензии
 
-```bash
-git clone https://github.com/anasthora/FP_SNPs.git
-cd FP_SNPs
